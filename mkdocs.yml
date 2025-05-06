@@ -31,7 +31,4 @@ nav:
   - Recommendations: rec.md
   - References & Further Reading: refer.md
 
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.blocks.caption
+
