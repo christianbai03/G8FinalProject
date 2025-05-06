@@ -22,6 +22,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
+  markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
     
 
 nav:
