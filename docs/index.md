@@ -6,7 +6,8 @@ hide:
 
 # IT304 Final Project
 
-By Christian Bai, Iman Khan, Alexandra Villalobos, and Qadeer Jahed
+By Christian Bai(cbai5@gmu.edu), Iman Khan (ikhan30@gmu.edu), Qadeer Jahed (Qjahed@gmu.edu), and Alexandra Villalobos Rivera (avillal8@gmu.edu),
+
 
 The course has covered diverse social issues created or intensified by Information Technology. The goal of this final project is to:
 
