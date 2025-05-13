@@ -19,19 +19,23 @@ Sources:
 
 - [AI in Education: Leveraging Chat GPT in the Classroom](https://www.learning.com/blog/chat-gpt-classroom/)
 
-
-
 ### 2. Meal Planning
 
 ![alt text](https://www.shape.com/thmb/T_mImupEDPhk5BfvSlpPM0KldMQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-05-26at11.15.23AM-e0964b2423754e5b8fbfe2e3a9404354.jpg)
 
 Another use for ChatGPT is meal planning. The user just has to input what they are looking for like high protein meals, their budget, and any allergies. ChatGPT will give you some ideas of what dishes you can make as well as how to make them. If needed, it can walk you step by step on how to create each meal. It can break down nutritional information like how many calories and grams of protein. It can also create a grocery list that meets your budget.
 
-
-
 Source:
 
 - [I asked ChatGPT to Make a Meal Plan: Here’s What Happened](https://www.shape.com/chatgpt-meal-plan-7503676)
+
+### 3. Coding Support
+
+ChatGPT is widely used in programming and development. It can explain code, help debug, write functions, and generate documentation. Many beginners use ChatGPT as a mentor to improve coding skills, especially when learning languages like Python or JavaScript. However overreliance has become a large problem for beginners as it can weaken their critical thinking and coding skills in the long run, especially when the basics of coding haven't been grasped. It also brings up issues in the long run on the cybersecurity side as the genAI may not be writing secure code when junior devs are expecting it to be.
+
+Source:
+
+- [The risks of entry-level developers over relying on AI](https://www.csoonline.com/article/3951403/the-risks-of-entry-level-developers-over-relying-on-ai.html)
 
 ---
 

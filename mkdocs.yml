@@ -30,6 +30,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Introduction: intro.md
   - Real World Applications: applications.md
   - Ethics & Critical Analysis: analysis.md
   - Recommendations: rec.md
